@@ -1,0 +1,6 @@
+.boxmodel{
+    width: 330px;
+    padding: 30px;
+    border: 40px solid rgb(68, 68, 73);
+    margin: 0; 
+}
